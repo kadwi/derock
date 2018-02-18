@@ -9,19 +9,19 @@ from threading import Thread
 #from pyowm import OWM
 
 cl = LINETCR.LINE()
-cl.login(token="Em91waQIcvXWyMrE8SMc.jB1lTE0oNuMV5aYqlcvM7a.7P/be3Mufcd$
+cl.login(token="EqNeUUL87zH34r8SEWMf.6xotENw0w7d6dQQBDf4uVW.MhmdFxubjG/yfClQEp4E43XRLlXIQKY9943qA5YhKmw=")
 cl.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="EmFfB9MKm6K5cWzaHTud.ljW+dg/qfx/S+nua8chOdq.qb6cEnwV35D$
+kk.login(token="EqPCfjFULK37nqPfspN1.Ew+qlNgA09JCa9YiLV+zeq.RDZZRCXYKqT/zs1VusvPf8J0phcoEi8qC1dNaKr4u4A=")
 kk.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="EmpYFvEcoVYxm0yKgG3c.kPCIxd3dx0LAHGGMosEvBa.+cl/ASX02L2$
+ki.login(token="Eqi7kMblE3uZhbXtHwg8.N3gLS1pa5DR3BrtceoqVwa.UyrvSOOP7VH5Mck95wUmh0DevvuT3DfZIoBKYF+Rsj4=")
 ki.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="EmLO74bVtkpmo1RO0Ln9.lx6iYJ1ZQ3OTRUu4MoLSQq.U4ciUWB81tn$
+kc.login(token="Eq2AlnBGwNSG7UaGG397.8tc5AY/3NQlPA9qX16SP5W.uRj6Gzf64HlZYMOCnn5evy5AV7rkVGHdbEng9WDYW/4=")
 kc.loginResult()
 
 print "=====Login Berhasil====="
