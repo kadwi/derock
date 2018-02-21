@@ -9,19 +9,19 @@ from threading import Thread
 #from pyowm import OWM
 
 cl = LINETCR.LINE()
-cl.login(token="EqNeUUL87zH34r8SEWMf.6xotENw0w7d6dQQBDf4uVW.MhmdFxubjG/yfClQEp4E43XRLlXIQKY9943qA5YhKmw=")
+cl.login(token="")
 cl.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="EqPCfjFULK37nqPfspN1.Ew+qlNgA09JCa9YiLV+zeq.RDZZRCXYKqT/zs1VusvPf8J0phcoEi8qC1dNaKr4u4A=")
+kk.login(token="")
 kk.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="Eqi7kMblE3uZhbXtHwg8.N3gLS1pa5DR3BrtceoqVwa.UyrvSOOP7VH5Mck95wUmh0DevvuT3DfZIoBKYF+Rsj4=")
+ki.login(token="")
 ki.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="Eq2AlnBGwNSG7UaGG397.8tc5AY/3NQlPA9qX16SP5W.uRj6Gzf64HlZYMOCnn5evy5AV7rkVGHdbEng9WDYW/4=")
+kc.login(token="")
 kc.loginResult()
 
 print "=====Login Berhasil====="
